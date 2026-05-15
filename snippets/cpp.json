@@ -1,0 +1,21 @@
+{
+    "CP Template": {
+        "prefix": "cp",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "",
+            "#define int long long",
+            "#define fi first",
+            "#define se second",
+            "#define all(v) v.begin(), v.end()",
+            "",
+            "using namespace std;",
+            "using pii = pair<int, int>;",
+            "",
+            "signed main() {",
+            "    cin.tie(0)->sync_with_stdio(0);",
+            "    $0",
+            "}"
+        ]
+    }
+}
